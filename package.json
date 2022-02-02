@@ -1,0 +1,11 @@
+{
+  "name": "@cyberalien/package-test",
+  "version": "1.0.0",
+  "description": "Test packagage",
+  "author": "Vjacheslav Trushkin",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "license": "MIT"
+}
